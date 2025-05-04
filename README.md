@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @megsri15
 - 👀 I’m interested in AI and analyzing potential biases.
-- 🌱 I’m currently learning HTML, JS, and Python.
+- 🌱 I’m currently learning Java and Python.
 - 😄 Pronouns: she/her
 
 <!---
